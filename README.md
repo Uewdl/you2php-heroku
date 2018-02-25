@@ -1,3 +1,4 @@
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 -----------------------------------------------------
 如果您嫌命令麻烦：
 可以使用这个一键部署：
